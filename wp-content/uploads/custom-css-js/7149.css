@@ -1,0 +1,41 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.content-main-form {
+    margin-bottom: 2rem;
+    padding: 0 1rem;
+}
+
+label.contact {
+    color: white;
+    font-size: 1rem;
+  	margin: 30px 0;
+}
+.input-style {
+    background-color: #dfdcdcb8 !important;
+    border-radius: 20px !important;
+    margin-top: 8px;
+    color: black !important;
+}
+
+a.termnos {
+    color: white;
+}
+a.termnos:hover {
+    color: black;
+}
+
+.btn-send {
+    text-align: center;
+}
+.send-register {
+    border-radius: 20px;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    text-transform: none;
+  	font-size: 1rem !important;
+}
+.send-register:hover {
+  color: black;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
